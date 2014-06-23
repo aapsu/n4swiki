@@ -8,3 +8,5 @@ Day 5: Finnish summer
 Suomen kesa on lyhyt, mutta vahaluminen. :( Perkele.
 
 Vesi on kylmaa ja markaa. Suomalaiset masentuu.
+
+Suomen talvi on pitkä ja kesä on osa sitä
