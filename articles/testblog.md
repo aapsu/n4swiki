@@ -10,3 +10,5 @@ Suomen kesa on lyhyt, mutta vahaluminen. :( Perkele.
 Vesi on kylmaa ja markaa. Suomalaiset masentuu.
 
 Suomen talvi on pitkä ja kesä on osa sitä
+
+Hauki on kala
