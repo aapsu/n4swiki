@@ -1,6 +1,6 @@
 ###### Oct 12th, 2012
 
-Day 3: Stockholm by boat
+Day 3: I'm on a boat mofo!
 ------------------------
 
 ![](img/boat1.jpg "Dog living on a houseboat at the harbour")
